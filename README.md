@@ -1,2 +1,2 @@
 # goodgame
-Jack's website
+Jack's website, see https://jackspiller.github.io/goodgame
