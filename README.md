@@ -1,2 +1,2 @@
-# goodgame
-Jack's website, see https://goodgame.us
+# Jack's website
+See https://goodgame.us
